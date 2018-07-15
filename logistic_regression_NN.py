@@ -1,4 +1,8 @@
-# -*- coding: utf-8 -*-
+
+"""
+Created on Sun July 15 06:45:43 2018
+@author: soham ghosh
+"""
 
 
 import numpy as np
