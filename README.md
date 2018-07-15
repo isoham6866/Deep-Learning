@@ -1,5 +1,5 @@
 # Deep-Learning
-
+Course-1
 Building a logistic regression model which structured as a shallow neural network.
 Implementing the main steps of an ML algorithm, including making predictions, derivative computation, and gradient descent.
 Implementing computationally efficient, highly vectorized, versions of models.
