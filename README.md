@@ -17,4 +17,4 @@ Building and training a neural network with one hidden layer.
 
 Seeing deep neural networks as successive blocks put one after each other while building and training a deep L-layer Neural Network.
 Analyzing matrix and vector dimensions to check neural network implementations.
-Understanding how to use a cache to pass information from forward propagation to back propagation and the role of hyperparameters in deep learning
+Understanding how to use a cache to pass information from forward propagation to back propagation and the role of hyperparameters in deep learning.
