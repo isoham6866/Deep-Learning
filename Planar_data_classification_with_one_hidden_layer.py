@@ -26,6 +26,9 @@ plt.scatter(X[0, :], X[1, :], c=Y, s=40, cmap=plt.cm.Spectral);
 shape_X = None
 shape_Y = None
 m = None  # training set size
+shape_X = X.shape
+shape_Y = Y.shape
+m = X.shape[1]
 
 ### END CODE HERE ###
 
