@@ -1,3 +1,9 @@
+"""
+Created on Sun July 16 19:26:34 2018
+@author: soham ghosh
+"""
+
+
 import time
 import numpy as np
 import h5py
